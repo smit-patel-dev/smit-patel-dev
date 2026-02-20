@@ -23,7 +23,7 @@ I'm a **Frontend && Web Developer**, mainly build clean, responsive web interfac
 ## 🏆 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuragk89.vercel.app/api?username=smit-patel-dev&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&cache_seconds=86400" alt="Smit's GitHub Stats" height="150"/>
+  <!-- <img src="https://github-readme-stats-git-master-anuragk89.vercel.app/api?username=smit-patel-dev&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&cache_seconds=86400" alt="Smit's GitHub Stats" height="150"/> -->
   <img src="https://streak-stats.demolab.com?user=smit-patel-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 <p align="center">
