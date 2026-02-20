@@ -39,4 +39,4 @@ I build clean, responsive web interfaces and connect them with smart marketing a
 
 ---
 
-[Portfolio](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) · [Twitter](https://twitter.com/YOUR_USERNAME)
+# [Portfolio](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) · [Twitter](https://twitter.com/YOUR_USERNAME)
