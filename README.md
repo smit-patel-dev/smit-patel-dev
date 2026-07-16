@@ -89,10 +89,10 @@ and workflow automation.
 
 ## GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smit-patel-dev&theme=tokyonight" alt="GitHub Stats" />
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smit-patel-dev&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=smit-patel-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -110,10 +110,10 @@ and workflow automation.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smit-patel-dev&theme=tokyonight" alt="Profile Details" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smit-patel-dev&theme=tokyonight" alt="Repos per Language" />
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smit-patel-dev&theme=tokyonight" alt="Most Commit Language" />
-</p>
+</p> -->
 
 ---
 
