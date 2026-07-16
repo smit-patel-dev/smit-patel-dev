@@ -104,11 +104,9 @@ and workflow automation.
 
 ---
 
-## Development Summary
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smit-patel-dev&theme=tokyonight" alt="Profile Details" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smit-patel-dev&theme=tokyonight" alt="Repos per Language" />
