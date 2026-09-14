@@ -87,23 +87,6 @@ and workflow automation.
 
 ---
 
-## GitHub Analytics
-
-<!-- <p align="center">
-  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smit-patel-dev&theme=tokyonight" alt="GitHub Stats" />
-  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smit-patel-dev&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p> -->
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smit-patel-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smit-patel-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smit-patel-dev&theme=tokyonight" alt="Profile Details" />
 </p> -->
