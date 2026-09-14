@@ -96,8 +96,6 @@ and workflow automation.
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smit-patel-dev&theme=tokyonight" alt="Most Commit Language" />
 </p> -->
 
----
-
 ## Let's Connect
 
 <p align="center">
